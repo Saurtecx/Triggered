@@ -1,5 +1,5 @@
 class AppWideConstacts {
-  static const String appTitle = 'Snow';
+  static const String appTitle = 'Triggered';
 }
 
 class HomePageConstants {
@@ -68,9 +68,9 @@ class SettingsConstants {
   static const String darkThemeName = 'Kinda Dark';
   static const String lightThemeName = 'Clearly White';
 
-  static const String useMaterial3Heading = 'Use Material You';
+  static const String useMaterial3Heading = 'Use Material XUI';
   static const String useMaterial3Subheading =
-      'Only works if your device supports Material You';
+      'Only works if your device supports Material XUI';
 
   static const String accentColorHeading = 'Theme Seed Color';
 
@@ -81,12 +81,12 @@ class SettingsConstants {
   static const String notReceivingNotificationsHeading =
       'Not Getting Reminders?';
   static const String notReceivingNotificationsSubtitle =
-      'Exempt Snow from battery optimization';
+      'Exempt Triggred from battery optimization';
   static const String notGettingNotificationsDialogContent =
       'Battery saver mode'
       ' on your phone may be restricting notifications. Please \'Allow\' '
-      'Snow to run without being restricted by battery saver mode and '
-      'ensure that Snow is NOT optimized in battery optimizing settings.';
+      'Triggered to run without being restricted by battery saver mode and '
+      'ensure that Triggerd is NOT optimized in battery optimizing settings.';
   static const String notGettingNotificationsDialogOkayButton = 'Okay';
   static const String notGettingNotificationsDialogCancelButton = 'Cancel';
 
@@ -101,9 +101,9 @@ class SettingsConstants {
 
   static const String legalHeading = 'Legal';
   static const String legalSubtitle =
-      'View licences of software(s) used by Snow';
+      'View licences of software(s) used by Triggered';
 
-  static const String contributeHeading = 'Support Snow';
+  static const String contributeHeading = 'Support Triggred';
   static const String contributeSubtitle =
       'You may leave a star and/or support development on GitHub';
 
@@ -114,20 +114,21 @@ class SettingsConstants {
 }
 
 class MetaDataConstants {
-  static const String myFirstName = 'Sahej';
-  static const String myName = 'Sahej Singh';
-  static const String myAbbrName = 'Sahej A. Singh';
-  static const String myLegalName = 'Sahej Anand Singh';
-  static const String myFullName = 'Sahej Singh Sarao';
+  static const String myFirstName = 'Saurtecx';
+  static const String myName = 'Saurabh Mishra & Akanksha Verma';
+  static const String myAbbrName = 'Saurabh Mishra & Akanksha Verma';
+  static const String myLegalName = 'Saurabh Mishra & Akanksha Verma';
+  static const String myFullName = 'Saurabh Mishra & Akanksha Verma';
 
-  static const String personalWebsiteVisitLink = 'https://sahej.io';
-  static const String personalWebsiteDisplayLink = 'sahej.io';
+  static const String personalWebsiteVisitLink =
+      'https://github.com/Saurtecx/Triggered';
+  static const String personalWebsiteDisplayLink = 'Saurtecx';
 
-  static const String githubHomeLink = 'https://github.com/sahej-dev/Snow';
+  static const String githubHomeLink = 'https://github.com/Saurtecx/Triggered';
   static const String githubBugReportLink =
-      'https://github.com/sahej-dev/Snow/issues/new?assignees=&labels=bug&template=bug_report.yaml&title=%5BBug%5D%3A+';
+      'https://github.com/Saurtecx/Triggered';
   static const String githubFeatureRequestLink =
-      'https://github.com/sahej-dev/Snow/issues/new?assignees=&labels=enhancement&template=feature_request.yaml&title=%5BFR%5D%3A+';
+      'https://github.com/Saurtecx/Triggered';
 
   static const String shareText =
       'This is a great app which gives reminders of '
