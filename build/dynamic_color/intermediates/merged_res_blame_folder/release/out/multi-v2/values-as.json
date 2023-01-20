@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.material.plugins.dynamic_color-merged_res-8:/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SAURABH MISHRA\\.gradle\\caches\\transforms-3\\e66ad13982b9c85b09fd34d42cc04772\\transformed\\core-1.6.0\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.material.plugins.dynamic_color-mergeReleaseResources-6:/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SAURABH MISHRA\\.gradle\\caches\\transforms-3\\e66ad13982b9c85b09fd34d42cc04772\\transformed\\core-1.6.0\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

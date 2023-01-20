@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gb.optimize_battery-mergeReleaseResources-6:/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SAURABH MISHRA\\.gradle\\caches\\transforms-3\\e66ad13982b9c85b09fd34d42cc04772\\transformed\\core-1.6.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.gb.optimize_battery-merged_res-8:/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SAURABH MISHRA\\.gradle\\caches\\transforms-3\\e66ad13982b9c85b09fd34d42cc04772\\transformed\\core-1.6.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

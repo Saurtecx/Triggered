@@ -1,0 +1,12 @@
+io.material.plugins.dynamic_color-jetified-window-java-1.0.0-beta04-0 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\17e36e75c19201d0e8ac6741acedba01\transformed\jetified-window-java-1.0.0-beta04\res
+io.material.plugins.dynamic_color-jetified-window-1.0.0-beta04-1 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\5b9f71fd28bcab5d397fc117b6a30306\transformed\jetified-window-1.0.0-beta04\res
+io.material.plugins.dynamic_color-jetified-annotation-experimental-1.1.0-2 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\d0d1add1603f1186fa423af523b0810f\transformed\jetified-annotation-experimental-1.1.0\res
+io.material.plugins.dynamic_color-core-1.6.0-3 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\e66ad13982b9c85b09fd34d42cc04772\transformed\core-1.6.0\res
+io.material.plugins.dynamic_color-pngs-4 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\dynamic_color\generated\res\pngs\release
+io.material.plugins.dynamic_color-resValues-5 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\dynamic_color\generated\res\resValues\release
+io.material.plugins.dynamic_color-rs-6 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\dynamic_color\generated\res\rs\release
+io.material.plugins.dynamic_color-mergeReleaseResources-7 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\dynamic_color\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.material.plugins.dynamic_color-mergeReleaseResources-8 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\dynamic_color\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.material.plugins.dynamic_color-merged_res-9 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\dynamic_color\intermediates\merged_res\release
+io.material.plugins.dynamic_color-main-10 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\dynamic_color-1.5.4\android\src\main\res
+io.material.plugins.dynamic_color-release-11 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\dynamic_color-1.5.4\android\src\release\res

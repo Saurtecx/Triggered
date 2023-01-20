@@ -1,0 +1,12 @@
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-0 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\17e36e75c19201d0e8ac6741acedba01\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-1 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\5b9f71fd28bcab5d397fc117b6a30306\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.1.0-2 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\d0d1add1603f1186fa423af523b0810f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.6.0-3 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\e66ad13982b9c85b09fd34d42cc04772\transformed\core-1.6.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-4 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\url_launcher_android\generated\res\pngs\release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-5 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\url_launcher_android\generated\res\resValues\release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-6 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\url_launcher_android\generated\res\rs\release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-7 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-8 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-9 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\url_launcher_android\intermediates\merged_res\release
+io.flutter.plugins.urllauncher.url_launcher_android-main-10 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\url_launcher_android-6.0.22\android\src\main\res
+io.flutter.plugins.urllauncher.url_launcher_android-release-11 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\url_launcher_android-6.0.22\android\src\release\res

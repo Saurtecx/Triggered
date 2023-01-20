@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.gb.optimize_battery-merged_res-8:/layout/custom_dialog.xml",
+        "source": "com.gb.optimize_battery-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.gb.optimize_battery-merged_res-8:/layout/notification_template_part_time.xml",
+        "source": "com.gb.optimize_battery-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.gb.optimize_battery-merged_res-8:/layout/notification_template_icon_group.xml",
+        "source": "com.gb.optimize_battery-core-1.6.0-3:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.gb.optimize_battery-merged_res-8:/layout/notification_template_part_chronometer.xml",
+        "source": "com.gb.optimize_battery-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.gb.optimize_battery-merged_res-8:/layout/notification_action_tombstone.xml",
+        "source": "com.gb.optimize_battery-core-1.6.0-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.gb.optimize_battery-merged_res-8:/layout/notification_action.xml",
+        "source": "com.gb.optimize_battery-core-1.6.0-3:/layout/notification_action.xml"
+    }
+]

@@ -1,0 +1,31 @@
+me.carda.awesome_notifications-jetified-emoji2-views-helper-1.2.0-0 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\11ca8db6f8f94e5d9dffc75870c2649f\transformed\jetified-emoji2-views-helper-1.2.0\res
+me.carda.awesome_notifications-jetified-window-java-1.0.0-beta04-1 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\17e36e75c19201d0e8ac6741acedba01\transformed\jetified-window-java-1.0.0-beta04\res
+me.carda.awesome_notifications-fragment-1.3.6-2 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\1fd20fb6510bad333f530589ef7efb93\transformed\fragment-1.3.6\res
+me.carda.awesome_notifications-jetified-lifecycle-process-2.5.1-3 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\25601a14d3f656f8ac8e13c1f0434ac3\transformed\jetified-lifecycle-process-2.5.1\res
+me.carda.awesome_notifications-lifecycle-livedata-2.5.1-4 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\44346dde15463c7b61c8c1a739b5e1bc\transformed\lifecycle-livedata-2.5.1\res
+me.carda.awesome_notifications-jetified-lifecycle-service-2.5.1-5 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\4636c00cc437bf28f6f4f9660d58a4c7\transformed\jetified-lifecycle-service-2.5.1\res
+me.carda.awesome_notifications-jetified-window-1.0.0-beta04-6 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\5b9f71fd28bcab5d397fc117b6a30306\transformed\jetified-window-1.0.0-beta04\res
+me.carda.awesome_notifications-jetified-core-ktx-1.8.0-7 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\6cdfe9f77a9ffcf8755703992c34ac7c\transformed\jetified-core-ktx-1.8.0\res
+me.carda.awesome_notifications-jetified-appcompat-resources-1.5.1-8 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\6e6947a10de0e36377d83d770848ed53\transformed\jetified-appcompat-resources-1.5.1\res
+me.carda.awesome_notifications-jetified-savedstate-1.2.0-9 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\73bc07d3d8f3e060488fc99d41f0b9d4\transformed\jetified-savedstate-1.2.0\res
+me.carda.awesome_notifications-localbroadcastmanager-1.1.0-10 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\748f542aa3b837d3f977f595665260b8\transformed\localbroadcastmanager-1.1.0\res
+me.carda.awesome_notifications-lifecycle-viewmodel-2.5.1-11 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\78efac55be153e910e972abf8a861f78\transformed\lifecycle-viewmodel-2.5.1\res
+me.carda.awesome_notifications-jetified-emoji2-1.2.0-12 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\7e48350618e91391cc3d110b32abc262\transformed\jetified-emoji2-1.2.0\res
+me.carda.awesome_notifications-jetified-lifecycle-viewmodel-savedstate-2.5.1-13 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\86d71aa2b443398c28e0d827cdf02b2c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+me.carda.awesome_notifications-core-1.8.0-14 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\8d018af6a7888dc2ad76f544fc4d0125\transformed\core-1.8.0\res
+me.carda.awesome_notifications-media-1.6.0-15 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\9abef549e787b81d90aba731c743ed69\transformed\media-1.6.0\res
+me.carda.awesome_notifications-jetified-startup-runtime-1.1.1-16 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\ba5e54b9cd38093cbfdcc6da219f161d\transformed\jetified-startup-runtime-1.1.1\res
+me.carda.awesome_notifications-jetified-activity-1.5.1-17 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\ba7d410073d9254c1f92360fe475cdd7\transformed\jetified-activity-1.5.1\res
+me.carda.awesome_notifications-lifecycle-runtime-2.5.1-18 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\be3a3aadce23ef6d631ae36e07bbcd5d\transformed\lifecycle-runtime-2.5.1\res
+me.carda.awesome_notifications-jetified-annotation-experimental-1.1.0-19 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\d0d1add1603f1186fa423af523b0810f\transformed\jetified-annotation-experimental-1.1.0\res
+me.carda.awesome_notifications-lifecycle-livedata-core-2.5.1-20 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\d2cbd4e1d42134e17963fa36f3fa2b3c\transformed\lifecycle-livedata-core-2.5.1\res
+me.carda.awesome_notifications-lifecycle-reactivestreams-2.5.1-21 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\da4be497e53a031c22094e20bfb8d7fc\transformed\lifecycle-reactivestreams-2.5.1\res
+me.carda.awesome_notifications-appcompat-1.5.1-22 C:\Users\SAURABH MISHRA\.gradle\caches\transforms-3\e58dea9ca12047eba524e488d01f1366\transformed\appcompat-1.5.1\res
+me.carda.awesome_notifications-pngs-23 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\awesome_notifications\generated\res\pngs\release
+me.carda.awesome_notifications-resValues-24 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\awesome_notifications\generated\res\resValues\release
+me.carda.awesome_notifications-rs-25 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\awesome_notifications\generated\res\rs\release
+me.carda.awesome_notifications-mergeReleaseResources-26 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\awesome_notifications\intermediates\incremental\release\mergeReleaseResources\merged.dir
+me.carda.awesome_notifications-mergeReleaseResources-27 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\awesome_notifications\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+me.carda.awesome_notifications-merged_res-28 C:\Users\SAURABH MISHRA\Desktop\Triggered\build\awesome_notifications\intermediates\merged_res\release
+me.carda.awesome_notifications-main-29 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\awesome_notifications-0.7.4+1\android\src\main\res
+me.carda.awesome_notifications-release-30 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\awesome_notifications-0.7.4+1\android\src\release\res
